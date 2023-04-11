@@ -1,6 +1,6 @@
-### Programa utilizado para o balanceamento de brackets em python
+### Program for balancing string in python
 
 Exemplos: 
-- {[()]}  => Balanceada
-- {[(])} => Desbalanceada
-- {{[[(())]]}} => Balanceada
+- {[()]}  => Balanced
+- {[(])} => Unbalanced
+- {{[[(())]]}} => Balanced
